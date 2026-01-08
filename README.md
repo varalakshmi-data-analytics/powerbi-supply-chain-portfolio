@@ -21,16 +21,17 @@ The actual datasets and Power BI (.pbix) file are kept private.
 
 ## Dashboard Preview
 
-### Executive Dashboard
-![Executive Summary](images/executive_eummary.png)
+### Executive Summary
+![Executive Summary](images/executive_summary.png)
 
 ### Supply Chain Operations
-![Supply Chain o=Operations](images/supply_chain_operations.png)
+![Supply Chain Operations](images/supply_chain_operations.png)
 
-### Delivery Performance And Logistics
-![Delivery Performance and Logistics](images/delivery_analysis.png)
+### Delivery Performance Analysis
+![Delivery Analysis](images/delivery_analysis.png)
 
 ### Order Details
 ![Order Details](images/order_details.png)
+
 
 > Note: Full project files can be shared upon request.
