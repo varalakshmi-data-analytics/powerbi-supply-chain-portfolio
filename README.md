@@ -22,7 +22,7 @@ The actual datasets and Power BI (.pbix) file are kept private.
 ## Dashboard Preview
 
 ### Executive Dashboard
-![Dashboard Overview](images/executive_eummary.png)
+![Executive Summary](images/executive_eummary.png)
 
 ### Supply Chain Operations
 ![Supply Chain o=Operations](images/supply_chain_operations.png)
