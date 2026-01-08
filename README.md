@@ -28,7 +28,7 @@ The actual datasets and Power BI (.pbix) file are kept private.
 ![Supply Chain Operations](images/supply_chain_operations.png)
 
 ### Delivery Performance Analysis
-![Delivery Analysis](images/delivery_analysis.png)
+![Delivery Performance and Logistics](images/delivery_logistics.png)
 
 ### Order Details
 ![Order Details](images/order_details.png)
